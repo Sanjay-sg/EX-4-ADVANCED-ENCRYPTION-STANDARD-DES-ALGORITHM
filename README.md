@@ -1,4 +1,4 @@
-# EX-7-Implement DES Encryption and Decryption
+# EX-8-Implement DES Encryption and Decryption
 
 ## Aim:
   Implementation of Pseudorandom Number Generation Using Standard Library.
